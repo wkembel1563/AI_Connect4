@@ -1,8 +1,5 @@
 #include "maxconnect4.h"
 
-// TODO: change all mentions of player to red/green
-// TODO: deal with the case where the bottom of the search tree is reached
-
 int main(int argc, char ** argv)
 {
   validate(argc, argv); 
